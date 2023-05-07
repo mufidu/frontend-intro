@@ -30,7 +30,7 @@ header {
             rgba(39, 40, 56, 0.6),
             rgba(39, 40, 56, 0.6)
         ),
-        url(code.jpg);
+        url(https://storage.googleapis.com/dicodinggogogogogogo/code.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     color: white;
@@ -93,7 +93,7 @@ a:link {
 }
 
 article {
-    padding: 0 3rem 3rem 3rem;
+    padding: 3rem 3rem 3rem 3rem;
     color: white;
 }
 
@@ -151,7 +151,6 @@ aside {
 
 svg:hover {
     transform: scale(1.1);
-
 }
 
 aside p {
